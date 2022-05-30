@@ -38,7 +38,7 @@ npm install
  npm start
 ```
 
-# Live Demo
+### Live Demo
 
 [Here](https://elaborate-torrone-416705.netlify.app/) is a live demo of this project
 
