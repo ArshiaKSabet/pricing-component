@@ -38,6 +38,10 @@ npm install
  npm start
 ```
 
+# Live Demo
+
+[Here](https://elaborate-torrone-416705.netlify.app/) is a live demo of this project
+
 ## Code
 
 The files and folders which I think you might be interested to take a look at.
@@ -56,3 +60,4 @@ If there are any questions, please feel free to contact me:
 
 - [LinkedIn](https://www.linkedin.com/in/arshia-kolachaei-sabet-507776227/)
 - [Mail](mailto:arshia.sabet@konsultinfo.com?subject=[GitHub]%20Pricing%20Component)
+  https://elaborate-torrone-416705.netlify.app/
