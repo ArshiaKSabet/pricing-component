@@ -1,6 +1,6 @@
 # Frontend - Pricing Component with toggle
 
-This is my attempt to build out a pricing component, and get it to look as close to the original design as possible. The challenge can be found here: (https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC)
+This is my attempt to build out a pricing component, and get it to look as close to the original design as possible. The challenge can be found [here].(https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC)
 
 ## Built With
 
