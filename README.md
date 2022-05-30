@@ -1,7 +1,5 @@
 # Frontend - Pricing Component with toggle
 
----
-
 This is my attempt to build out a pricing component, and get it to look as close to the original design as possible. The challenge can be found here: (https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC)
 
 ## Built With
@@ -10,8 +8,6 @@ This is my attempt to build out a pricing component, and get it to look as close
 - [MUI](https://mui.com/) (Material UI)
 
 ## Getting Started
-
----
 
 To get the project up and running, please follow the steps below.
 
@@ -44,8 +40,6 @@ npm install
 
 ## Code
 
----
-
 The files and folders which I think you might be interested to take a look at.
 
 ```sh
@@ -57,8 +51,6 @@ The files and folders which I think you might be interested to take a look at.
 ```
 
 ## Contact
-
----
 
 If there are any questions, please feel free to contact me:
 
