@@ -20,19 +20,19 @@ To get the project up and running, please follow the steps below.
 
 Proceed with these installation steps to get a local copy of the project. Use your commandline:
 
-1. Clone the repo through your command line, and redirect to the project directory.
+**1.** Clone the repo through your command line, and redirect to the project directory.
 
 ```sh
 git clone https://github.com/ArshiaKSabet/pricing-component-with-toggle
 ```
 
-2. Install the NPM packages
+**2.** Install the NPM packages
 
 ```sh
 npm install
 ```
 
-3. Start the project
+**3.** Start the project
 
 ```sh
  npm start
